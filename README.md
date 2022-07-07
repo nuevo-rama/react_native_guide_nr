@@ -4,12 +4,12 @@
 
 --------------------------
 
-- Requirements
+#### Requirements
 
-Node 
-NPM
-Git
-Expo
+- Node 
+- NPM
+- Git
+- Expo
 
 --------------------------
 
